@@ -1,0 +1,4 @@
+aws:
+  credentials:
+    accessKey: #input_your_access_key
+    secretKey: #input_your_secret_key
